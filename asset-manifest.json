@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/main.6f3c2772.chunk.js",
+    "main.js.map": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/main.6f3c2772.chunk.js.map",
+    "runtime-main.js": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/runtime-main.04998bc5.js",
+    "runtime-main.js.map": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/runtime-main.04998bc5.js.map",
+    "static/js/2.224ca40c.chunk.js": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/2.224ca40c.chunk.js",
+    "static/js/2.224ca40c.chunk.js.map": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/2.224ca40c.chunk.js.map",
+    "static/js/3.189c1532.chunk.js": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/3.189c1532.chunk.js",
+    "static/js/3.189c1532.chunk.js.map": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/3.189c1532.chunk.js.map",
+    "index.html": "/Tri-Nguyen-Dev.github.io/test-reactjs/index.html",
+    "static/js/2.224ca40c.chunk.js.LICENSE.txt": "/Tri-Nguyen-Dev.github.io/test-reactjs/static/js/2.224ca40c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04998bc5.js",
+    "static/js/2.224ca40c.chunk.js",
+    "static/js/main.6f3c2772.chunk.js"
+  ]
+}
